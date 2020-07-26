@@ -1,4 +1,4 @@
-# DOM
+# DOM (Don't download it yet, it's incomplete)
 
 A website template created by Alexandre de Carvalho Pimentel. 
 </br>
