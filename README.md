@@ -1,7 +1,7 @@
 # DOM
-##Website for Education
+Website for Education
 
-###Sample created by Alexandre de Carvalho Pimentel using the tools below.
+Sample created by Alexandre de Carvalho Pimentel using the tools below.
 HTML5
 Bootstrap4.5
 CSS - Editing bootstrap
