@@ -13,6 +13,7 @@ A website template created by Alexandre de Carvalho Pimentel.
 
 <h2>Screenshots
 ![image](https://user-images.githubusercontent.com/58637629/88490428-e5178780-cf71-11ea-970b-374fe63624f0.png)
+![image](https://user-images.githubusercontent.com/58637629/88490843-b4851d00-cf74-11ea-8409-fce2d0acf079.png)
 
 <h2>Installation</h2>
 <ol>
