@@ -2,7 +2,7 @@
 A website template created by Alexandre de Carvalho Pimentel. 
 </br>
 
-<h2>Tools Used</h2>
+<h2>Technology Used</h2>
 <ul>
   <li>HTML5</li>
   <li>Bootstrap4.5</li>
