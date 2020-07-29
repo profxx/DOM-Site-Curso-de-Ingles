@@ -1,5 +1,4 @@
-# DOM (Don't download it yet, it's incomplete)
-
+# DOM
 A website template created by Alexandre de Carvalho Pimentel. 
 </br>
 
